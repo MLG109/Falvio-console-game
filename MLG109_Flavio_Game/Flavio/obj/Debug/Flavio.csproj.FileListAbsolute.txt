@@ -1,0 +1,14 @@
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\bin\Debug\Flavio.exe.config
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\bin\Debug\Flavio.exe
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\bin\Debug\Flavio.pdb
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\obj\Debug\Flavio.csprojAssemblyReference.cache
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\obj\Debug\Flavio.csproj.CoreCompileInputs.cache
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\obj\Debug\Flavio.exe
+C:\Users\Marina López\Documents\2ºBACH\VS\Flavio\Flavio\obj\Debug\Flavio.pdb
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\bin\Debug\Flavio.exe.config
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\bin\Debug\Flavio.exe
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\bin\Debug\Flavio.pdb
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\obj\Debug\Flavio.csproj.AssemblyReference.cache
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\obj\Debug\Flavio.csproj.CoreCompileInputs.cache
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\obj\Debug\Flavio.exe
+D:\Marina\Contenedor_1\VS\Flavio\Flavio\obj\Debug\Flavio.pdb
